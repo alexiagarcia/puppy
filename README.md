@@ -1,2 +1,2 @@
 # puppy
-Repositorio para el proyecto Puppy
+Repositorio para el proyecto logoPuppy
